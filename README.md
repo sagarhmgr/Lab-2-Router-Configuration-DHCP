@@ -253,18 +253,3 @@ The PCs automatically received valid IPv4 configuration information and were abl
 This lab provided practical experience with **basic Cisco router configuration, DHCP, IP addressing, and network troubleshooting**.
 
 ---
-
-## 🚀 Next Lab
-
-**Lab 3 — Cisco Switch Configuration & MAC Address Table**
-
-Planned topics:
-
-* Switch CLI configuration
-* Hostname configuration
-* Console and privileged-mode security
-* VLAN basics
-* MAC address table
-* Port configuration
-* Connectivity testing
-* Basic switch troubleshooting
